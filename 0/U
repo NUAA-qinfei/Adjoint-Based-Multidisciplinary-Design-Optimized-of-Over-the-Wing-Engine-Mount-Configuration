@@ -25,18 +25,18 @@ boundaryField
     hot
     {
         type            fixedValue;
-        value           uniform (259.85149 0.000995 -0.0012556);
+        value           uniform (260.84 -0.0007 -0.0012);
     }
     cold
     {
         type            fixedValue;
-        value           uniform (132.265 -0.003025 -0.00136);
+        value           uniform (134.08 0.001 0.0015);
     }
     in
     {
         type            inletOutlet;
-        inletValue      uniform (174.50994 -0.777579 1.484);
-        value           uniform (174.50994 -0.777579 1.484);
+        inletValue      uniform (168.72 -0.66 -1.8);
+        value           uniform (168.71 -0.66 -1.8);
     }
     wing
     {
