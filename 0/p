@@ -37,7 +37,7 @@ boundaryField
     in
     {
         type            fixedValue;
-        value           uniform 36404.86;
+        value           uniform 39038.956;
     }
     wing
     {
